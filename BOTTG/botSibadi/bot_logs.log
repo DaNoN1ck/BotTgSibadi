@@ -1,0 +1,99 @@
+2025-11-21 00:17:19,336 - aiogram.dispatcher - INFO - Start polling
+2025-11-21 00:17:19,663 - aiogram.dispatcher - INFO - Run polling for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:17:20,096 - aiogram.event - INFO - Update id=447657507 is handled. Duration 343 ms by bot id=8496468614
+2025-11-21 00:17:26,663 - aiogram.event - INFO - Update id=447657508 is handled. Duration 313 ms by bot id=8496468614
+2025-11-21 00:17:28,603 - aiogram.event - INFO - Update id=447657509 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:17:33,175 - aiogram.event - INFO - Update id=447657510 is not handled. Duration 14 ms by bot id=8496468614
+2025-11-21 00:17:35,753 - aiogram.event - INFO - Update id=447657511 is handled. Duration 156 ms by bot id=8496468614
+2025-11-21 00:17:39,899 - aiogram.event - INFO - Update id=447657512 is handled. Duration 250 ms by bot id=8496468614
+2025-11-21 00:17:41,156 - aiogram.event - INFO - Update id=447657513 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:18:37,960 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-21 00:18:37,962 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-21 00:18:37,962 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8496468614)
+2025-11-21 00:18:38,216 - aiogram.dispatcher - INFO - Polling stopped for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:18:42,700 - aiogram.dispatcher - INFO - Start polling
+2025-11-21 00:18:42,998 - aiogram.dispatcher - INFO - Run polling for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:18:43,914 - aiogram.event - INFO - Update id=447657514 is handled. Duration 328 ms by bot id=8496468614
+2025-11-21 00:18:46,563 - aiogram.event - INFO - Update id=447657515 is handled. Duration 264 ms by bot id=8496468614
+2025-11-21 00:18:47,757 - aiogram.event - INFO - Update id=447657516 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:18:49,567 - aiogram.event - INFO - Update id=447657517 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:20:06,557 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-21 00:20:06,558 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-21 00:20:06,558 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8496468614)
+2025-11-21 00:20:06,818 - aiogram.dispatcher - INFO - Polling stopped for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:20:10,791 - aiogram.dispatcher - INFO - Start polling
+2025-11-21 00:20:11,095 - aiogram.dispatcher - INFO - Run polling for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:20:13,228 - aiogram.event - INFO - Update id=447657518 is handled. Duration 280 ms by bot id=8496468614
+2025-11-21 00:20:14,230 - aiogram.event - INFO - Update id=447657519 is handled. Duration 250 ms by bot id=8496468614
+2025-11-21 00:20:15,190 - aiogram.event - INFO - Update id=447657520 is not handled. Duration 16 ms by bot id=8496468614
+2025-11-21 00:20:16,779 - aiogram.event - INFO - Update id=447657521 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:20:17,868 - aiogram.event - INFO - Update id=447657522 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:22:12,430 - aiogram.event - INFO - Update id=447657523 is handled. Duration 108 ms by bot id=8496468614
+2025-11-21 00:22:15,592 - aiogram.event - INFO - Update id=447657524 is handled. Duration 125 ms by bot id=8496468614
+2025-11-21 00:22:17,191 - aiogram.event - INFO - Update id=447657525 is handled. Duration 110 ms by bot id=8496468614
+2025-11-21 00:22:24,208 - aiogram.event - INFO - Update id=447657526 is handled. Duration 156 ms by bot id=8496468614
+2025-11-21 00:22:25,783 - aiogram.event - INFO - Update id=447657527 is handled. Duration 156 ms by bot id=8496468614
+2025-11-21 00:22:26,820 - aiogram.event - INFO - Update id=447657528 is handled. Duration 203 ms by bot id=8496468614
+2025-11-21 00:22:27,927 - aiogram.event - INFO - Update id=447657529 is handled. Duration 233 ms by bot id=8496468614
+2025-11-21 00:22:58,655 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-21 00:22:58,656 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-21 00:22:58,656 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8496468614)
+2025-11-21 00:22:58,909 - aiogram.dispatcher - INFO - Polling stopped for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:23:02,968 - aiogram.dispatcher - INFO - Start polling
+2025-11-21 00:23:03,317 - aiogram.dispatcher - INFO - Run polling for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:23:04,855 - aiogram.event - INFO - Update id=447657530 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:23:06,618 - aiogram.event - INFO - Update id=447657531 is handled. Duration 281 ms by bot id=8496468614
+2025-11-21 00:23:22,448 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-21 00:23:22,449 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-21 00:23:22,449 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8496468614)
+2025-11-21 00:23:22,707 - aiogram.dispatcher - INFO - Polling stopped for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:23:27,425 - aiogram.dispatcher - INFO - Start polling
+2025-11-21 00:23:27,677 - aiogram.dispatcher - INFO - Run polling for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:23:29,331 - aiogram.event - INFO - Update id=447657532 is handled. Duration 359 ms by bot id=8496468614
+2025-11-21 00:23:39,137 - aiogram.event - INFO - Update id=447657533 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:23:40,807 - aiogram.event - INFO - Update id=447657534 is handled. Duration 139 ms by bot id=8496468614
+2025-11-21 00:25:22,956 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-21 00:25:22,957 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-21 00:25:22,957 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8496468614)
+2025-11-21 00:25:23,209 - aiogram.dispatcher - INFO - Polling stopped for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:29:43,065 - aiogram.dispatcher - INFO - Start polling
+2025-11-21 00:29:43,363 - aiogram.dispatcher - INFO - Run polling for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:29:48,117 - aiogram.event - INFO - Update id=447657535 is handled. Duration 390 ms by bot id=8496468614
+2025-11-21 00:29:52,102 - aiogram.event - INFO - Update id=447657536 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:29:53,717 - aiogram.event - INFO - Update id=447657537 is handled. Duration 109 ms by bot id=8496468614
+2025-11-21 00:29:54,954 - aiogram.event - INFO - Update id=447657538 is handled. Duration 94 ms by bot id=8496468614
+2025-11-21 00:29:56,173 - aiogram.event - INFO - Update id=447657539 is handled. Duration 93 ms by bot id=8496468614
+2025-11-21 00:29:57,439 - aiogram.event - INFO - Update id=447657540 is handled. Duration 125 ms by bot id=8496468614
+2025-11-21 00:30:44,255 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-21 00:30:44,256 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-21 00:30:44,256 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8496468614)
+2025-11-21 00:30:44,516 - aiogram.dispatcher - INFO - Polling stopped for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:30:48,719 - aiogram.dispatcher - INFO - Start polling
+2025-11-21 00:30:48,995 - aiogram.dispatcher - INFO - Run polling for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:31:10,476 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-21 00:31:10,477 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-21 00:31:10,477 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8496468614)
+2025-11-21 00:31:10,735 - aiogram.dispatcher - INFO - Polling stopped for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:31:14,693 - aiogram.dispatcher - INFO - Start polling
+2025-11-21 00:31:14,952 - aiogram.dispatcher - INFO - Run polling for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:31:19,110 - aiogram.event - INFO - Update id=447657541 is handled. Duration 375 ms by bot id=8496468614
+2025-11-21 00:31:21,402 - aiogram.event - INFO - Update id=447657542 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:31:22,818 - aiogram.event - INFO - Update id=447657543 is handled. Duration 266 ms by bot id=8496468614
+2025-11-21 00:31:23,658 - aiogram.event - INFO - Update id=447657544 is handled. Duration 125 ms by bot id=8496468614
+2025-11-21 00:32:08,823 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-21 00:32:08,824 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-21 00:32:08,824 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8496468614)
+2025-11-21 00:32:09,082 - aiogram.dispatcher - INFO - Polling stopped for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:32:13,302 - aiogram.dispatcher - INFO - Start polling
+2025-11-21 00:32:13,598 - aiogram.dispatcher - INFO - Run polling for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
+2025-11-21 00:32:14,903 - aiogram.event - INFO - Update id=447657545 is handled. Duration 297 ms by bot id=8496468614
+2025-11-21 00:32:16,791 - aiogram.event - INFO - Update id=447657546 is handled. Duration 125 ms by bot id=8496468614
+2025-11-21 00:32:18,224 - aiogram.event - INFO - Update id=447657547 is handled. Duration 218 ms by bot id=8496468614
+2025-11-21 00:32:20,059 - aiogram.event - INFO - Update id=447657548 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:32:21,609 - aiogram.event - INFO - Update id=447657549 is handled. Duration 155 ms by bot id=8496468614
+2025-11-21 00:32:22,922 - aiogram.event - INFO - Update id=447657550 is not handled. Duration 0 ms by bot id=8496468614
+2025-11-21 00:32:24,025 - aiogram.event - INFO - Update id=447657551 is handled. Duration 156 ms by bot id=8496468614
+2025-11-21 00:40:06,045 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-21 00:40:06,046 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-21 00:40:06,046 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8496468614)
+2025-11-21 00:40:06,302 - aiogram.dispatcher - INFO - Polling stopped for bot @TestForSIbadiBOt id=8496468614 - 'TestBotForSIbadi'
